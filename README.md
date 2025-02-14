@@ -5,7 +5,7 @@ Welcome to C0d3_C1U8! This C1U8 is centered around assisting wet-lab biologists 
 ## Table of Contents
 
 1. [Introduction]()
-2. [Getting Started in VS Code]()  return
+2. [Getting Started in VS Code]()  <br>
    2.1. [Switching from RStudio to VS Code]()
    2.2. [Setting up Python in VS Code]()
    2.3. [Other recommended VS Code Extenstions]()
