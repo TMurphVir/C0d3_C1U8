@@ -10,6 +10,8 @@ With that said, I intend to deliver a guide that provides a bare minimum foundat
 
 Learning to code is an iterative process, you won't get it right the first few times, you will doubt yourself, you will be upset. This resource is here assist your initial journey with guidance to minimize the sting. All the code and guides are avialble free of charge, no need to use me or this page in any references. I discourage citations for two reasons: 1. I am not an expert and 2. code in the information age is for everyone to use so feel to copy and paste or use anything I post on this page without guilt or worry.
 
+![](GeeksLearning.jpeg)
+
 Feel free to leave a message or comment on any questions, comments, or concerns. Happy coding and welcome to the new hottest C1U8 in NYC!
 
 ## Table of Contents
