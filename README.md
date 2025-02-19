@@ -8,8 +8,8 @@ Welcome to C0d3_C1U8! This C1U8 is centered around assisting wet-lab biologists 
 
 2. [Getting Started in VS Code](./Getting%20Started%20in%20VS%20Code/SwitchingFromR/Introduction.md)<br><details><summary>2.1-2.3</summary>
    2.1. [Switching from RStudio to VS Code](./Getting%20Started%20in%20VS%20Code/SwitchingFromR/Introduction.md)<br>
-   2.2. [Setting up Python in VS Code]()<br>
-   2.3. [Other recommended VS Code Extenstions]()<br>
+   2.2. [Setting up Python in VS Code](/Getting%20Started%20in%20VS%20Code/SettingUpPython/SettingUpPythonIntroduction)<br>
+   2.3. [Other recommended VS Code Extenstions](/Getting%20Started%20in%20VS%20Code/AdditionalExtensions/additionalextensions)<br>
    </details>
 3. [Basics of Bioinformatics]()<br><details><summary>3.1-3.5</summary>
    3.1. [Understanding File Types and Formats]()<br>
