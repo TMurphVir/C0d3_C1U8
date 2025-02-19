@@ -8,8 +8,8 @@ Welcome to C0d3_C1U8! This C1U8 is centered around assisting wet-lab biologists 
 
 2. [Getting Started in VS Code](./Getting%20Started%20in%20VS%20Code/SwitchingFromR/Introduction.md)<br><details><summary>2.1-2.3</summary>
    2.1. [Switching from RStudio to VS Code](./Getting%20Started%20in%20VS%20Code/SwitchingFromR/Introduction.md)<br>
-   2.2. [Setting up Python in VS Code](/Getting%20Started%20in%20VS%20Code/SettingUpPython/SettingUpPythonIntroduction)<br>
-   2.3. [Other recommended VS Code Extenstions](/Getting%20Started%20in%20VS%20Code/AdditionalExtensions/additionalextensions)<br>
+   2.2. [Setting up Python in VS Code](/Getting%20Started%20in%20VS%20Code/SettingUpPython/SettingUpPythonIntroduction.md)<br>
+   2.3. [Other recommended VS Code Extenstions](/Getting%20Started%20in%20VS%20Code/AdditionalExtensions/additionalextensions.md)<br>
    </details>
 3. [Basics of Bioinformatics]()<br><details><summary>3.1-3.5</summary>
    3.1. [Understanding File Types and Formats]()<br>
@@ -37,7 +37,7 @@ Welcome to C0d3_C1U8! This C1U8 is centered around assisting wet-lab biologists 
    6.4. [Quality of Life]()<br>
    6.5. [Solving Annoyances]()<br>
    </details>
-   
+
 ## About Me
 
 I am current 4th year PhD candidate hailing from the Midwestern USA. I completed my undergraduate (Biomedical sciences) and Masters (Molecular Bio., Microbio., and Biochemistry) at Southern Illinois University. I am a self taught programmer with a broad interest in computer science who learned to code by trial and error. My programming began as an undergraduate when I inherited next-generation sequencing data from 16S sequencing of environmental bacterial microbiomes investigating environmental remediation and sustainable aquaculture. Admittedly, I struggled tremendously learning to anaylze sequencing data leading me to regularly wipe out and restart projects followed by incessant googling for solutions. This trial by fire greatly inspired me to write this guide to assist others in navigating the coding sphere of computational biology. Circa 2016 I was fortunate enough to begin working with a laboratory who purchased, a then groundbreaking technology, the oxford nanopore MinION for long read direct DNA sequencing. Our group used this to sequence genomes of novel deep-subsurface bacteria isolated from gold mines and nuclear test sites (bombs not reactors). I was then tasked to take this new long read sequencing data and previously generated genomic next-generation sequencing data and combine them into an accurate bacterial genome for a newly isolated bacterium. Learning to analyze the MinION data at its genesis captured my fascination and spawned my love for computational biology. Since then, I have moved on the work wih proteomics data and broaden my horizon to include building micro-PCs (because I am a microbiologist), databases designs, pipeline building, and automation.
